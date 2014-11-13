@@ -4,6 +4,7 @@
     Author: Matthew Strange 
     Created: 14 October 2010 
     Adapted for 6-PWM-Channels by Charles Gantt on November 14th 2013. 
+    Modified by: Caitlin Wood on November 12th 2014
      
     */  
       
