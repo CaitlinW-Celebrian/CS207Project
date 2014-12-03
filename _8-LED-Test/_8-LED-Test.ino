@@ -14,14 +14,14 @@
     
       
     // Output  
-    int Chan1 = 9; // green LED, connected to digital pin 11  
-    int Chan2 = 8; // red LED, connected to digital pin 10  
-    int Chan3 = 7; // green LED, connected to digital pin 9  
-    int Chan4 = 6; // red LED, connected to digital pin 7  
-    int Chan5 = 5; // green LED, connected to digital pin 6  
-    int Chan6 = 4; // red LED, connected to digital pin 5
-    int Chan7 = 3; // green LED, connected to digital pin 4
-    int Chan8 = 2; // red LED, connected to digital pin 3
+    int Chan1 = 9; // green LED, connected to digital pin 9  
+    int Chan2 = 8; // red LED, connected to digital pin 8  
+    int Chan3 = 7; // green LED, connected to digital pin 7  
+    int Chan4 = 6; // red LED, connected to digital pin 6  
+    int Chan5 = 5; // green LED, connected to digital pin 5  
+    int Chan6 = 4; // red LED, connected to digital pin 4
+    int Chan7 = 3; // green LED, connected to digital pin 3
+    int Chan8 = 2; // red LED, connected to digital pin 2
     
       
     int i = 0; // Loop counter  
